@@ -1,4 +1,4 @@
-# move-to-next-monitor
+# move-to-previous-monitor
 
 Script to move windows from one monitor to the next in Xubuntu
 
@@ -10,9 +10,9 @@ I mapped `ctrl+alt+n` to exectute this script.
 ## Usage
 
 ```
-wget https://raw.githubusercontent.com/jc00ke/move-to-next-monitor/master/move-to-next-monitor
-chmod +x move-to-next-monitor
-mv move-to-next-monitor /somewhere/in/your/$PATH
+wget https://github.com/xavierbaez/move-to-previous-monitor/raw/master/move-to-previous-monitor
+chmod +x move-to-previous-monitor
+mv move-to-previous-monitor /somewhere/in/your/$PATH
 ```
 
 ## Dependencies
